@@ -1,4 +1,4 @@
-# Using NDK r20 and r10e to build CPP code
+# Using NDK r20 and r10e to build code in C++
 
 - ndk-build
 
