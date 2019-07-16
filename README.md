@@ -1,4 +1,4 @@
-# Using NDK r20 and r10e to build an ecutable
+# Using NDK r20 and r10e to build an executable file with CPP code
 
 - ndk-build
 
