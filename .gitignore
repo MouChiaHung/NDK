@@ -1,0 +1,10 @@
+r20/jni/libs/arm64-v8a/main
+r20/jni/libs/x86_64/main
+*.d
+r20/jni/obj/local/x86/main
+*.o
+r20/jni/obj/local/armeabi-v7a/main
+r20/jni/libs/armeabi-v7a/main
+r20/jni/obj/local/x86_64/main
+r20/jni/libs/x86/main
+r20/jni/obj/local/arm64-v8a/main
